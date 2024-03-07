@@ -358,3 +358,5 @@ copy --help
 cp --help
 cp website-boilerplate toms-website -r
 ls --color=auto -l
+find
+find toms-website
