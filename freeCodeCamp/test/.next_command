@@ -354,3 +354,5 @@ ls --color=auto -l
 rm website website-boilerplate
 mv website website-boilerplate
 ls --color=auto -l
+copy --help
+cp --help
