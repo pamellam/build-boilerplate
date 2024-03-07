@@ -194,3 +194,6 @@ mv roboto.woff fonts
 find
 mv lato.tff fonts
 mv lato.ttf fonts
+mv melno.otf fonts
+mv melno.otf fonts
+mv menlo.otf fonts
