@@ -204,3 +204,5 @@ mv index.html client/src
 find
 mv index.js client/src
 mv styles.css client/src
+__vsc_prompt_cmd_original
+find
