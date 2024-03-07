@@ -226,3 +226,26 @@ touch background.jpg
 cd ../../..
 cd images
 ls --color=auto -l
+mv header.png website
+mv header.png ../website
+mv header.png website
+ls --color=auto images
+ls --color=auto -l
+mv website ../
+ls --color=auto -l
+cd website
+cd ../
+ls --color=auto -l
+cd images
+ls --color=auto -l
+touch header.png
+ls --color=auto -l
+mv header.png website
+cd ..
+ls --color=auto -l
+cd images
+ls --color=auto -l
+mv website ..
+ls --color=auto -l
+touch header.png
+mv header.png ..
