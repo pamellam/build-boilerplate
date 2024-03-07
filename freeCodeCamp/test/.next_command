@@ -112,3 +112,4 @@ mkdir website
 ls --color=auto -l
 cd website
 ls --color=auto -l
+echo hello website
