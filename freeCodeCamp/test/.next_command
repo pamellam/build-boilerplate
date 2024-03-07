@@ -310,3 +310,5 @@ cd ..
 cd ..
 cd ..
 touch client/assets/fonts/roboto-light.woff
+find
+find client/assets/fonts
