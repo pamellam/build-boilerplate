@@ -350,3 +350,4 @@ cd project
 cd ..
 cd /workspace/project/website
 cd ..
+ls --color=auto -l
