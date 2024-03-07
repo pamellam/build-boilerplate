@@ -160,3 +160,4 @@ ls --color=auto -l
 cd ..
 ls --color=auto -l
 rm background.jpg
+ls --color=auto -l
