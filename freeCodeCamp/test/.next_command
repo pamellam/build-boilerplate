@@ -271,3 +271,8 @@ rmdir images
 __vsc_prompt_cmd_original
 find
 ls --color=auto -l
+mkdir icons ./client/assets
+ls --color=auto -l
+find
+rmdir client ./client/
+mkdir client/assets/icons
