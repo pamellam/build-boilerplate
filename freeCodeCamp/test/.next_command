@@ -221,3 +221,4 @@ cd image
 mkdir image
 ls --color=auto
 mkdir images
+cd images
