@@ -122,3 +122,19 @@ ls --color=auto -l
 ls --color=auto --help
 ls --color=auto -all
 ls --color=auto -a
+cd website
+cd ..
+cd .
+cd ,
+cd .
+cd ..
+cd ../..
+cd .
+ls --color=auto -l
+cd website
+pwd
+cd cd /workspace/project/website
+cd /workspace
+cd project
+cd website
+cd .
