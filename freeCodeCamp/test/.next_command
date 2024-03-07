@@ -217,3 +217,7 @@ cd client
 mkdir client
 mkdir assets
 cd assets
+cd image
+mkdir image
+ls --color=auto
+mkdir images
