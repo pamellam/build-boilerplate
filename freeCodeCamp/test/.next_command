@@ -187,3 +187,4 @@ __vsc_prompt_cmd_original
 mv melno.font melno.otf
 ls --color=auto -l
 mv menlo.font menlo.otf
+ls --color=auto -l
