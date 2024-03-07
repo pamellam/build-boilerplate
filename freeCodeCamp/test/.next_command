@@ -321,3 +321,6 @@ rm -help
 rmdir -help
 rm -help
 rm --help
+tree
+find
+rm -r fonts
