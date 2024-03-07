@@ -351,3 +351,5 @@ cd ..
 cd /workspace/project/website
 cd ..
 ls --color=auto -l
+rm website website-boilerplate
+mv website website-boilerplate
