@@ -110,3 +110,4 @@ mk dir website
 clear
 mkdir website
 ls --color=auto -l
+cd website
