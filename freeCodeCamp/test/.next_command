@@ -222,3 +222,4 @@ mkdir image
 ls --color=auto
 mkdir images
 cd images
+touch background.jpg
