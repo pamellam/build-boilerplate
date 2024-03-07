@@ -268,3 +268,6 @@ rm ./images/background.jpg
 rm images
 rm ./images
 rmdir images
+__vsc_prompt_cmd_original
+find
+ls --color=auto -l
