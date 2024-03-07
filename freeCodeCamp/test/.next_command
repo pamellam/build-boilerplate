@@ -80,3 +80,23 @@ clear
 ls --color=auto -l
 cd src
 pwd src
+cd /
+list -l
+ls --color=auto -l
+cd src
+cd/workspace/project/freeCodeCamp/node_modules/has/src
+clear
+ls --color=auto -l
+cd ..
+cd ...
+cd ...
+clear
+cd /workspace/project
+cd freeCodeCamp
+ls --color=auto -l
+cd node_modules
+cd node_modules
+cd node_modules
+cd ..
+cd /workspace/project/freeCodeCamp/node_modules/has/src
+ls --color=auto
