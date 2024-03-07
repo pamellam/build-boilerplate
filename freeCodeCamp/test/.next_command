@@ -208,3 +208,5 @@ __vsc_prompt_cmd_original
 find
 find client
 find --help
+find -name index.js
+find -name index.html
