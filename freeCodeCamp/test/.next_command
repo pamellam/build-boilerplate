@@ -249,3 +249,4 @@ mv website ..
 ls --color=auto -l
 touch header.png
 mv header.png ..
+ls --color=auto -l
