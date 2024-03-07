@@ -342,3 +342,11 @@ more README.md
 echo fro the freeCodeCamp bash lessons >> README.md
 echo for the freeCodeCamp bash lessons >> README.md
 more README.md
+cd ../..
+cd ../../..
+tree
+find
+cd project
+cd ..
+cd /workspace/project/website
+cd ..
