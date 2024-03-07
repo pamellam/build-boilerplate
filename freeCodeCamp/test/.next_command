@@ -100,3 +100,4 @@ cd node_modules
 cd ..
 cd /workspace/project/freeCodeCamp/node_modules/has/src
 ls --color=auto
+more index.js
