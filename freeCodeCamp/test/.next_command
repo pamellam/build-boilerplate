@@ -138,3 +138,4 @@ cd /workspace
 cd project
 cd website
 cd .
+touch background.jpg
