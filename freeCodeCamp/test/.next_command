@@ -301,3 +301,6 @@ mkdir fonts .client/assets
 mkdir fonts client/assets
 mkdir clint/assets/fonts
 mkdir client/assets/fonts
+cd client/assets/fonts
+touch roboto-bold.woff
+touch client/assets/fonts/roboto-bold.woff
