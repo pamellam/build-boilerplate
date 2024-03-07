@@ -106,3 +106,6 @@ cd ..
 cd ../..
 ls --color=auto -l
 clear
+mk dir website
+clear
+mkdir website
