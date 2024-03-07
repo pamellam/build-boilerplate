@@ -54,3 +54,4 @@ cd tet
 cd test
 pwd test
 ls --color=auto
+cd ..
