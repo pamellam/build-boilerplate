@@ -225,3 +225,4 @@ cd images
 touch background.jpg
 cd ../../..
 cd images
+ls --color=auto -l
