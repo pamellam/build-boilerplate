@@ -361,3 +361,4 @@ ls --color=auto -l
 find
 find toms-website
 find website-boilerplate
+clear
