@@ -105,3 +105,4 @@ cd ..
 cd ..
 cd ../..
 ls --color=auto -l
+clear
