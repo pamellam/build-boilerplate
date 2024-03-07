@@ -287,3 +287,17 @@ mv CodeRoad.svg /client/assets/icons
 mv CodeRoad.svg ./client/assets/icons
 mv freeCodeCamp.svg ./client/assets/icons
 find
+mkdir fonts client/assets
+cd client
+ls --color=auto -l
+mkdir icons assets
+cd assets
+ls --color=auto -l
+rmdir image
+ls --color=auto -
+ls --color=auto -l
+cd ../..
+mkdir fonts .client/assets
+mkdir fonts client/assets
+mkdir clint/assets/fonts
+mkdir client/assets/fonts
