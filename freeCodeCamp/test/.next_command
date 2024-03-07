@@ -71,3 +71,6 @@ list -l
 ls --color=auto -l
 cd has
 ls --color=auto -l
+readme.md
+cd README.md
+more README.md
