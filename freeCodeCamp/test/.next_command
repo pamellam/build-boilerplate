@@ -183,3 +183,7 @@ mv lato.font lato.tff
 mv lato.font lato.ttf
 ls --color=auto -l
 mv lato.woff lato.ttf
+__vsc_prompt_cmd_original
+mv melno.font melno.otf
+ls --color=auto -l
+mv menlo.font menlo.otf
